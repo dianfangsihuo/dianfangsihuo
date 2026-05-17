@@ -1,16 +1,23 @@
+<h1 align="center">窦书航 · AI Agent Builder</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:7c3aed,100:06b6d4&text=%E7%AA%A6%E4%B9%A6%E8%88%AA%20%7C%20AI%20Agent%20Builder&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Local%20AI%20Toolchain%20%C2%B7%20Voice%20Interaction%20%C2%B7%20Automation&descAlignY=58&animation=fadeIn" alt="AI Agent Builder banner" />
+  Full-Stack / AI Agent Developer · Local AI Toolchain · Voice Interaction · Desktop Automation
 </p>
 
 <p align="center">
-  <a href="mailto:dianfangsihuo@gmail.com"><img src="https://img.shields.io/badge/Email-dianfangsihuo%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/dianfangsihuo"><img src="https://img.shields.io/badge/GitHub-dianfangsihuo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=dianfangsihuo&style=for-the-badge&color=7c3aed" />
+  <a href="mailto:dianfangsihuo@gmail.com">Email</a> ·
+  <a href="https://github.com/dianfangsihuo">GitHub</a> ·
+  <a href="https://www.pixiv.net/users/109349091">Pixiv</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+AI+agents+that+can+actually+use+tools.;Turning+local+AI+into+desktop+superpowers.;Full-stack+systems+%2B+voice+interaction+%2B+automation.;Code+like+a+developer%2C+ship+like+a+one-person+studio." alt="Typing SVG" />
-</p>
+```text
+SYSTEM ONLINE  /  DIANFANGSIHUO LOCAL AI LAB
+
+Focus        AI Agent · Full-Stack · Local AI · Multimodal Interaction
+Stack        Python · FastAPI · Electron · MCP · RAG · GPT-SoVITS · ComfyUI
+Direction    Build agents that can see, listen, speak, search and use tools
+Signal       Engineering products by day, visual workflows by night
+```
 
 ---
 
@@ -27,28 +34,41 @@ Currently exploring:
 - AI coding workflows and tool orchestration
 - ASR / TTS / voice interaction
 - Electron + FastAPI desktop AI applications
+- ComfyUI workflow-based image generation
 
 ---
 
-## Cyber Agent Cockpit
+## Local AI Control Room
+
+| Module | What I Build |
+| --- | --- |
+| Agent Runtime | Tool calling, MCP/A2A workflows, multi-agent task decomposition |
+| Knowledge Layer | RAG, document parsing, local knowledge-base retrieval |
+| Desktop Layer | Electron clients, screen observation, automation workflows |
+| Voice Layer | ASR, translation, GPT-SoVITS TTS, auto playback |
+| Visual Layer | ComfyUI workflows, character illustration generation, image pipeline tuning |
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM: DIANFANGSIHUO / LOCAL-AI-LAB                         │
-├──────────────────────────────────────────────────────────────┤
-│  Core Loop      Think -> Tool Use -> Observe -> Improve        │
-│  Main Weapons   Python · FastAPI · Electron · MCP · RAG        │
-│  Side Quest     Give agents eyes, voice, memory and hands      │
-│  Anime Energy   赛博修行中 · 今日也在给 AI 装上新外挂          │
+│  CORE LOOP     Think -> Tool Use -> Observe -> Improve        │
+│  MAIN STACK    Python · FastAPI · Electron · MCP · RAG        │
+│  LOCAL LAB     Models, voices, workflows, desktop tools       │
+│  CREATIVE I/O  Prompts -> Nodes -> Images -> Iteration        │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Agent-Orchestrator-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Local_AI-Toolchain-06b6d4?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Desktop_Automation-Online-22c55e?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Voice_Mode-GPT--SoVITS-f97316?style=for-the-badge&logo=soundcharts&logoColor=white" />
-</p>
+---
+
+## Visual Workflow
+
+我也会使用 **ComfyUI** 做工作流生图，熟悉节点式图像生成、模型/LoRA/提示词组合、批量迭代和出图调参。常用本地工作区：
+
+```text
+D:\ai\ComfyUI-aki-v1.6\ComfyUI-aki-v1.6
+```
+
+Pixiv 个人账号：<https://www.pixiv.net/users/109349091>  
+目前已经有 **600+ followers**。懂的都懂。
 
 ---
 
@@ -56,30 +76,19 @@ Currently exploring:
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+`Python` · `JavaScript` · `HTML5` · `CSS3` · `PowerShell`
 
 **Frontend / Desktop**
 
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+`Vue` · `Electron` · `Playwright` · `WebSocket`
 
 **Backend / AI Engineering**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+`FastAPI` · `Node.js` · `OpenAI API` · `LangChain` · `MCP` · `RAG`
 
 **AI / Data / Local Tools**
 
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-blue?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=flat-square)
-![WebSocket](https://img.shields.io/badge/WebSocket-Realtime-green?style=flat-square)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+`FAISS` · `Ollama` · `GPT-SoVITS` · `FunASR` · `ComfyUI` · `Argos Translate`
 
 ---
 
@@ -113,24 +122,16 @@ Highlights:
 - GPT-SoVITS TTS API integration
 - Two modes: low-latency auto segmentation and manual long recording
 
----
+### GPT-SoVITS Codex Voice Skill
 
-## Anime Dev Mode
+一个让 Codex 回复自动变成语音的本地技能。它会监听 Codex 会话日志，把新的 assistant 消息发送到本地 GPT-SoVITS API，并用系统内置 WAV 播放器播放。
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dianfangsihuo&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=A78BFA" alt="GitHub streak" />
-</p>
+Highlights:
 
-```text
-          ╭──────────────────────────────────────────────╮
-          │  二次元状态面板                              │
-          ├──────────────────────────────────────────────┤
-          │  主线任务  构建可运行、可交付的 AI Agent      │
-          │  战斗风格  全栈工程 + 本地模型 + 自动化       │
-          │  必杀技能  把 Demo 炼成桌面生产力工具         │
-          │  当前 Buff  深夜编码时，灵感触发率 +30%       │
-          ╰──────────────────────────────────────────────╯
-```
+- Persistent voice mode for Codex replies
+- All-session watcher for new Codex sessions
+- Startup warmup to reduce first-speech latency
+- PowerShell integration for Windows local workflows
 
 ---
 
@@ -142,27 +143,12 @@ Highlights:
 - 面向业务场景的 RAG / 多模态 Agent
 - 多 Agent 协作、任务拆解和执行可观测性
 - 本地 AI 工具链与桌面自动化
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dianfangsihuo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianfangsihuo&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dianfangsihuo&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Signal" alt="Contribution graph" />
-</p>
+- 语音、视觉与桌面工具融合的个人 AI 工作流
 
 ---
 
 ## Contact
 
 - Email: dianfangsihuo@gmail.com
-- GitHub: https://github.com/dianfangsihuo
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,55:7c3aed,100:0f172a" alt="footer" />
-</p>
+- GitHub: <https://github.com/dianfangsihuo>
+- Pixiv: <https://www.pixiv.net/users/109349091>
