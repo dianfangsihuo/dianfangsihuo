@@ -182,9 +182,18 @@ Highlights:
 
 ## GitHub Signal
 
+```text
+┌─ CONTRIBUTION TELEMETRY ─────────────────────────────────────┐
+│  Focus     Local AI tools · AIGC pipelines · agent systems    │
+│  Rhythm    Build, test, ship, iterate                         │
+│  Signal    Recent contribution activity below                 │
+└───────────────────────────────────────────────────────────────┘
+```
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dianfangsihuo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianfangsihuo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Profile-Active-22c55e?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shipping-Local_AI_Tools-06b6d4?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AIGC-Workflow_Iteration-ec4899?style=for-the-badge&logo=sparkpost&logoColor=white" />
 </p>
 
 <p align="center">
