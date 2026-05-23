@@ -5,6 +5,7 @@
 <p align="center">
   <a href="mailto:dianfangsihuo@gmail.com"><img src="https://img.shields.io/badge/Email-dianfangsihuo%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/dianfangsihuo"><img src="https://img.shields.io/badge/GitHub-dianfangsihuo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://space.bilibili.com/476191884"><img src="https://img.shields.io/badge/Bilibili-%E6%AE%BF%E6%96%B9%E5%9B%9B%E7%81%AB-00a1d6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
   <a href="https://www.pixiv.net/users/109349091"><img src="https://img.shields.io/badge/Pixiv-600%2B_followers-0096fa?style=for-the-badge&logo=pixiv&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=dianfangsihuo&style=for-the-badge&color=7c3aed" />
 </p>
@@ -85,6 +86,9 @@ D:\ai\ComfyUI-aki-v1.6\ComfyUI-aki-v1.6
 
 Pixiv 个人账号：<https://www.pixiv.net/users/109349091>  
 目前已经有 **600+ followers**。懂的都懂。
+
+Bilibili 个人账号：<https://space.bilibili.com/476191884>  
+主要发布项目演示、ComfyUI 工作流、AIGC 工具和本地 AI 应用相关内容。
 
 ---
 
@@ -206,6 +210,7 @@ Highlights:
 
 - Email: dianfangsihuo@gmail.com
 - GitHub: <https://github.com/dianfangsihuo>
+- Bilibili: <https://space.bilibili.com/476191884>
 - Pixiv: <https://www.pixiv.net/users/109349091>
 
 <p align="center">
